@@ -1,4 +1,4 @@
-# Udacity Data Wrangling Project
+# Python Data Wrangling Project
 ## Open Street Map Analyses
 
 ### Objective:
